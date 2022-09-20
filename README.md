@@ -22,3 +22,8 @@ bigger
 * 3
 ---
 [洪先生](https://github.com/jinHung2201/2022-3B/blob/main/README.md)
+___
+**粗體**
+*斜體*
+~~刪除線~~
+
